@@ -1,4 +1,4 @@
-# Alt
+# Karat
 
 ## About
 
