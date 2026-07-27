@@ -28,6 +28,7 @@
 
 * Adobe Photoshop
 * Adobe Illustrator
+* Adobe PremierPro
 * Figma
 
 ### Development & Tools
